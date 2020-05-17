@@ -1,0 +1,16 @@
+body{
+    background: #0d1521;
+    font-family: tahoma;
+    color: #989898;
+}
+button{
+    padding: 20px;
+    width: 30%;
+    float: left;
+    background: #23282e;
+    border: 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+}
